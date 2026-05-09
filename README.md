@@ -1,4 +1,4 @@
-# Respiratory Sound Classifier: A Hybrid CNN-XGBoost Model for Pulmonary Disease Detection
+# A Hybrid CNN-XGBoost Model with Multi-Feature Fusion and Imbalance Handling for Respiratory Sound Classification and Pulmonary Disease Detection
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
