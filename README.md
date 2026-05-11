@@ -22,6 +22,27 @@ We provide a complete, end-to-end framework for classifying respiratory sounds (
 ```bash
 git clone https://github.com/ehabhassana/RespiratorySoundClassifier.git
 cd RespiratorySoundClassifier
+
+## Dataset
+
+This project uses the **ICBHI 2017 Respiratory Sound Database** (often referred to in some repos as `ICBHI-master`).
+The dataset is **not included** in this repository. Please download it from the official source (when available) or a public mirror and place it in the expected directory.
+
+**Official challenge page (may be unavailable at times):**
+- http://bhichallenge.med.auth.gr/ICBHI_2017_Challenge
+- (Archive) https://web.archive.org/web/*/bhichallenge.med.auth.gr/ICBHI_2017_Challenge
+
+**Public mirror (download):**
+- https://www.kaggle.com/datasets/vbookshelf/respiratory-sound-database
+
+### How to set up
+1. Download the dataset.
+2. Extract it to: `data/ICBHI-master/`  (or rename the extracted folder to `ICBHI-master` to match the code).
+3. Verify the audio files and annotation files are present.
+
+### Citation
+If you use this dataset, please cite the original ICBHI 2017 Respiratory Sound Database publication and the ICBHI 2017 challenge resources (see the dataset page for the recommended citation).
+
 | Experiment No. | Model |
 |---:|---|
 | 1 | MFCCCNN |
