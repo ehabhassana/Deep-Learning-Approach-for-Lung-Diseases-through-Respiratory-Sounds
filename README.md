@@ -120,4 +120,4 @@ If you use this dataset, please cite the original ICBHI 2017 Respiratory Sound D
 | 73 | Energy Spectral Bandwidth MFCC PCACNN XGBOST |
 | 74 | Energy Spectral Bandwidth MFCC LDACNN XGBOST |
 | 75 | Energy Spectral Bandwidth MFCC t-SNE UMAPCNN XGBOST |
-
+The details of experments reults attch at LIST OF EXPERMENTS.xlsx file
