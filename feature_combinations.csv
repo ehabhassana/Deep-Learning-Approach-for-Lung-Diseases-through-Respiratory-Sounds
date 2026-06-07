@@ -1,0 +1,45 @@
+ID,Feature Set
+1,MFCC
+2,Mel-spectrogram
+3,Spectral centroid
+4,Spectral bandwidth
+5,Spectral contrast
+6,Zero crossing rate (ZCR)
+7,Energy
+8,DWT
+9,Chroma
+10,PLP
+11,LPCC
+12,Constant Q transform
+13,Raw waveform
+14,Spectral rolloff
+15,Energy + Spectral Bandwidth + MFCC
+16,ZCR + Spectral Bandwidth + MFCC + Mel-spectrogram
+17,Energy + Spectral Bandwidth + MFCC + LDA
+18,Energy + Spectral Bandwidth + MFCC + DWT + Chroma
+19,MFCC + spectral features
+20,Spectral Bandwidth + MFCC
+21,Energy + Spectral Bandwidth + MFCC + t-SNE + UMAP
+22,ZCR + Spectral Centroid + MFCC + DWT
+23,Energy + MFCC
+24,MFCC + DWT
+25,Energy + Spectral Bandwidth + MFCC + PCA
+26,ZCR + Spectral Bandwidth + MFCC + DWT
+27,Spectral Bandwidth + MFCC + Mel-spectrogram
+28,ZCR + MFCC + DWT
+29,ZCR + Spectral Bandwidth + MFCC + DWT + Chroma
+30,Energy + Spectral Centroid + MFCC + DWT
+31,ZCR + Spectral Centroid + MFCC + Mel-spectrogram
+32,Energy + Spectral Bandwidth + MFCC + DWT
+33,Energy + Spectral Centroid + MFCC + Mel-spectrogram
+34,Spectral Centroid + MFCC + Mel-spectrogram
+35,Mel-spectrogram + DWT
+36,ZCR + Energy
+37,Spectral Centroid + MFCC
+38,ZCR + Spectral Bandwidth + MFCC + Mel-spectrogram + UMAP
+39,ZCR + Spectral Centroid + MFCC + DWT + Chroma
+40,Energy + MFCC + DWT
+41,Spectrogram + Chroma
+42,ZCR + Spectral Centroid + MFCC
+43,Energy + Spectral Centroid + MFCC + DWT + Chroma
+44,ZCR + Spectral Bandwidth
