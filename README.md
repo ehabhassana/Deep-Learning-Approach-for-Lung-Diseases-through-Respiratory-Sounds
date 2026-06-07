@@ -121,3 +121,7 @@ If you use this dataset, please cite the original ICBHI 2017 Respiratory Sound D
 | 74 | Energy Spectral Bandwidth MFCC LDACNN XGBOST |
 | 75 | Energy Spectral Bandwidth MFCC t-SNE UMAPCNN XGBOST |
 The details of experments reults attch at LIST OF EXPERMENTS.xlsx file
+
+Feature Combinations
+
+The full list of the 44 feature sets (15–44 are hybrid/dimensionally reduced) is available in [`feature_combinations.csv`](./feature_combinations.csv). See Section 3.2 of the manuscript for details.
