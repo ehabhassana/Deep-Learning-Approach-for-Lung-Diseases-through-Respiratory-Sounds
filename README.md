@@ -1,10 +1,10 @@
-# A Hybrid CNN-XGBoost Model with Multi-Feature Fusion and Imbalance Handling for Respiratory Sound Classification and Pulmonary Disease Detection
+# Imbalance-Aware CNN-XGBoost with Multi-Feature Fusion for Respiratory Sound Classification
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 📚 Description
 This repository contains the official implementation for the paper: 
-**"A Hybrid CNN-XGBoost Model with Multi-Feature Fusion and Imbalance Handling for Respiratory Sound Classification and Pulmonary Disease Detection"**.
+**"Imbalance-Aware CNN-XGBoost with Multi-Feature Fusion for Respiratory Sound Classification"**.
 
 We provide a complete, end-to-end framework for classifying respiratory sounds (e.g., COPD, Pneumonia, Bronchiolitis) using a hybrid architecture that combines a Convolutional Neural Network (CNN) for feature extraction and XGBoost for robust, non-linear classification.
 
