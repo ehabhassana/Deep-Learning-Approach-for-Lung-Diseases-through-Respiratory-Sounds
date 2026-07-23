@@ -124,4 +124,6 @@ The details of experments reults attch at LIST OF EXPERMENTS.xlsx file
 
 Feature Combinations
 
+The results_csv_summaries/ folder contains the final_summary.csv output for every evaluated configuration. Each file provides the mean and std of accuracy, F1, recall, FPR, FNR, and the final MCDM score (calculated with the AHP weights, see manuscript for details).
+
 The full list of the 44 feature sets (15–44 are hybrid/dimensionally reduced) is available in [`feature_combinations.csv`](./feature_combinations.csv). See Section 3.2 of the manuscript for details.
